@@ -1,0 +1,31 @@
+.maps {
+    width: 100%;
+    height: 300px;
+}
+input {
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #d8d8d8;
+    margin: 5px;
+    width: 75px;
+}
+.search-text {
+    width: 320px;
+}
+.search-button {
+    color: #fff;
+    background: #3498db;
+    min-width: 90px;
+    border: 0;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+    transition: 0.1s linear;
+    margin: 5px;
+}
+.search-button:hover {
+    opacity: 0.8;
+    transition: 0.1s linear;
+}
